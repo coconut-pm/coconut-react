@@ -1,0 +1,26 @@
+{
+  "name": "coconut-react",
+  "version": "0.0.1",
+  "description": "Coconut web client",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coconut-pm/coconut-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coconut-pm/coconut-react/issues"
+  },
+  "homepage": "https://github.com/coconut-pm/coconut-react#readme",
+  "dependencies": {
+    "coconut": "git+ssh://git@github.com:coconut-pm/coconut.git",
+    "react": "^15.5.4"
+  "devDependencies": {
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
